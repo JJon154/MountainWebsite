@@ -2,7 +2,7 @@
 $servername = "localhost";
 $username = "root";
 $password = "";
-$dbname = "Mountains_db";
+$dbname = "mountains_db";
 
 $conn = new mysqli($servername, $username, $password, $dbname);
 
